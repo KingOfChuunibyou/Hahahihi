@@ -30,7 +30,7 @@ A2.1 Output whether `input1` can be divided by `input2` (`bool`)
 
 A2.2 . We assume that `input1` is a Celcius Degree. Output the Farenheit value! The formula is `(input1 x 9/5) + 32`.
 
-A2.3 Finally, output a string that contains this format: "User input $input1$ and $input2$ with a string $input_str$. The boolean value is $boolval$`". $input1$ is user input (`input1`). $input2$ is (`input2`) and $boolval$ is `the output of A.2.1`
+A2.3 Finally, output a string that contains this format: "User input $input1$ and $input2$ with a string `$input_str$`. The boolean value is `$boolval$". $input1$ is user input (`input1`). $input2$ is (`input2`) and $boolval$ is `the output of A.2.1`
 
 ### Example
 **Input**
