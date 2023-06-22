@@ -1,0 +1,191 @@
+1.0-1
+Venti
+Barbara Fischl Xiangling
+
+1.0-2
+Klee
+Noele Sucrose Xingqiu
+
+1.1-1
+Tartaglia
+Beidou Ningguang Diona
+
+1.1-2
+Zhongli
+Razor Chongyun Xinyan
+
+1.2-1
+Albedo
+Bennett Fischl Sucrose
+
+1.2-2
+Ganyu
+Noelle Xiangling Xingqiu
+
+1.3-1
+Xiao
+Beidou Diona Xinyan
+
+1.3-2
+Keqing
+Barbara Bennett Ningguang
+
+1.3-3
+Hutao
+Xiangling Xingqiu Chongyun
+
+1.4-1
+Venti
+Razor Noelle Sucrose
+
+1.4-2
+Tartaglia
+Rosaria Barbara Fisch
+
+1.5-1
+Zhongli
+Yanfei Noelle Diona
+
+1.5-2
+Eula
+Beidou Xingqiu Xinyan
+
+1.6-1
+Klee
+Barbara Fischl Sucrose
+
+1.6-2
+Kazuha
+Rosaria Razor Bennett
+
+2.0-1
+Ayaka
+Yanfei Ningguang Chongyun
+
+2.0-2
+Yoimiya
+Diona Xinyan Sayu
+
+2.1-1
+Raiden
+Sucrose Xiangling Sara
+
+2.1-2
+Kokomi
+Rosaria Beidou Xingqiu
+
+2.2-1
+Tartaglia
+Yanfei Ningguang Chongyun
+
+2.2-2
+Hutao
+Thoma Diona Sayu
+
+2.3-1
+Eula Albedo
+Rosaria Bennett Noelle
+
+2.3-2
+Itto
+Barbara Xiangling Gorou
+
+2.4-1
+Xiao Shenhe
+Ningguang Chongyun Yunjin
+
+2.4-2
+Ganyu Zhongli
+Yanfei Beidou Xingqiu
+
+2.5-1
+Yae
+Thoma Fischl Diona
+
+2.5-2
+Kokomi Raiden
+Bennett Sara Xinyan
+
+2.6-1
+Ayato Venti
+Sucrose Xiangling Yunjin
+
+2.6-2
+Ayaka
+Rosaria Razor Sayu
+
+2.7-1
+Yelan Xiao
+Yanfei Barbara Noelle
+
+2.7-2
+Itto
+Chongyun Gorou Shinobu
+
+2.8-1
+Kazuha Klee
+Heizou Thoma Ningguang
+
+2.8-2
+Yoimiya
+Bennett Xinyan Yunjin
+
+3.0-1
+Zhongli Tighnari
+Collei Fischl Diona
+
+3.0-2
+Kokomi Ganyu
+Dori Sucrose Xingqiu
+
+3.1-1
+Venti Cyno
+Candace Sayu Shinobu
+
+3.1-2
+Albedo Nilou
+Barbara Beidou Xiangling
+
+3.2-1
+Nahida Yoimiya
+Razor Bennett Noelle
+
+3.2-2
+Tartaglia Yae
+Heizou Thoma Layla
+
+3.3-1
+Itto Wanderer
+Yanfei Gorou Faruzan
+
+3.3-2
+Raiden Ayato
+Rosaria Sara Sayu
+
+3.4-1
+Xiao Alhaitham
+Sayu Xinyan Yunjin
+
+3.4-2
+Yelan Hutao
+Beidou Ningguang Xingqiu
+
+3.5-1
+Cyno Dehya
+Collei Barbara Bennett
+
+3.5-2
+Ayaka Shenhe
+Mika Sucrose Diona
+
+3.6-1
+Nilou Nahida
+Dori Layla Shinobu
+
+3.6-2
+Ganyu Baizhu
+Candace Kaveh Fischl
+
+3.7-1
+Yoimiya Yae
+Kirara Chongyun Yunjin

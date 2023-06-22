@@ -1,0 +1,73 @@
+{
+  "Flu": ["fever", "cough", "sore throat", "body aches", "fatigue"],
+  "Malaria": ["fever", "chills", "headache", "nausea", "vomiting"],
+  "COVID-19": [
+    "fever",
+    "cough",
+    "shortness of breath",
+    "loss of taste or smell",
+    "fatigue"
+  ],
+  "Common Cold": [
+    "sneezing",
+    "runny nose",
+    "sore throat",
+    "cough",
+    "mild fever"
+  ],
+  "Pneumonia": [
+    "cough",
+    "fever",
+    "shortness of breath",
+    "chest pain",
+    "fatigue"
+  ],
+  "Bronchitis": [
+    "cough",
+    "sore throat",
+    "fatigue",
+    "shortness of breath",
+    "chest discomfort"
+  ],
+  "Migraine": [
+    "headache",
+    "nausea",
+    "vomiting",
+    "sensitivity to light",
+    "throbbing pain"
+  ],
+  "Sinusitis": [
+    "facial pain or pressure",
+    "nasal congestion",
+    "headache",
+    "cough",
+    "fatigue"
+  ],
+  "Tension Headache": [
+    "dull, aching head pain",
+    "tightness or pressure around the forehead or back of the head",
+    "neck pain",
+    "sensitivity to light or noise"
+  ],
+  "Gastroenteritis": [
+    "nausea",
+    "vomiting",
+    "diarrhea",
+    "abdominal pain",
+    "dehydration"
+  ],
+  "Urinary Tract Infection": [
+    "frequent urination",
+    "painful urination",
+    "cloudy or bloody urine",
+    "abdominal pain",
+    "fatigue"
+  ],
+  "Allergic Rhinitis": [
+    "sneezing",
+    "runny or stuffy nose",
+    "itchy or watery eyes",
+    "itchy throat or ears",
+    "fatigue"
+  ]
+}
